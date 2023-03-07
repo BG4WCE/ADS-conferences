@@ -25,5 +25,6 @@ Conferences related to Automated Driving System
   * ICCV 2023, Paris, Oct. 02-06, 2023, [https://iccv2023.thecvf.com/](https://iccv2023.thecvf.com/)
   * FAST-zero 2023, Kanazawa, Japan, Nov. 08-11, 2023, [https://www.fast-zero.info/2023/](https://www.fast-zero.info/2023/)
   * Safetronic 2023, FILDERHALLE, Stuttgart-Leinfelden, Germany, Nov. 15-16, 2023, [https://www.iks.fraunhofer.de/en/events/safetronic.html](https://www.iks.fraunhofer.de/en/events/safetronic.html)
+  * NeurIPS 2023, New Orlean, USA, Dec. 10-16, 2023, [https://nips.cc/](https://nips.cc/)
 ## 2024
   * ECCV European Conference on Computer Vision, Allianz MiCo - Milano Congressi, Italy, Sept. 29-Oct. 04, 2024, 
