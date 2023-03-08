@@ -6,6 +6,7 @@ Conferences related to Automated Driving System
   * CoRL, Conference on Robot Learning, Auckland, Dec. 14-18, 2022, [https://corl2022.org](https://corl2022.org) 
 ## 2023
   * GTC 2023 Spring, Nvidia, March 20-23, 2023
+  * GAIA GOTHENBURG ARTIFICIAL INTELLIGENCE ALLIANCE CONFERENCE, Gothenburg, Sweden, April 5, 2023, [https://conference.gaia.fish/](https://conference.gaia.fish/)
   * SoCAV 2023, Symposium on Connected and Autonomous Vehicles, Shenzhen, China, April 21-23, 2023, [https://www.socav.org](https://www.socav.org)
   * ICLR 2023, International Conference on Learning Represenations, Kigali, Rwanda, May 01-05, 2023, [https://iclr.cc](https://iclr.cc)
   * RTAS, 29th IEEE Real-Time and Embedded Technology and Applications Symposium, San Antonio, Texas, US, May 09-12, 2023, [http://2023.rtas.org/](http://2023.rtas.org/)
