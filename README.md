@@ -33,3 +33,5 @@ Conferences related to Automated Driving System
 ADS is an applicaton area of other topics, like AI, Systems Engineering, Robotics, etc. It is worth to check other conference also.
 ## 2024
   * MLSys 2024, Santa Clara Convention Center, May 13 - 16, 2024, [https://mlsys.org/](https://mysys.org/)
+  * ICSA 2023, 21st IEEE International Conference on Software Architecture, IIIT Hyderabad, India, June 4-8, 2024 [https://conf.researchr.org/home/icsa-2024]
+  ..*  WASA 2024, The 10th International Workshop on Automotive System/Software Architectures
