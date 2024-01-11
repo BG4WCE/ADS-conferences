@@ -28,7 +28,8 @@ Conferences related to Automated Driving System
   * Safetronic 2023, FILDERHALLE, Stuttgart-Leinfelden, Germany, Nov. 15-16, 2023, [https://www.iks.fraunhofer.de/en/events/safetronic.html](https://www.iks.fraunhofer.de/en/events/safetronic.html)
   * NeurIPS 2023, New Orlean, USA, Dec. 10-16, 2023, [https://nips.cc/](https://nips.cc/)
 ## 2024
-  * ECCV European Conference on Computer Vision, Allianz MiCo - Milano Congressi, Italy, Sept. 29-Oct. 04, 2024, 
+  * AAAI, The 38th Annual AAAI Conference on Artificial Intelligence, Vancouver, Canada, 22-24 Feb., 2024 [https://aaai.org/aaai-conference/](https://aaai.org/aaai-conference/)
+  * ECCV, European Conference on Computer Vision, Allianz MiCo - Milano Congressi, Italy, Sept. 29-Oct. 04, 2024, 
 # Some other conferences
 ADS is an applicaton area of other topics, like AI, Systems Engineering, Robotics, etc. It is worth to check other conference also.
 ## 2023
