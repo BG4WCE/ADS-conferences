@@ -36,5 +36,6 @@ ADS is an applicaton area of other topics, like AI, Systems Engineering, Robotic
   * MDE4SA, 3rd International Workshop on Model-Driven Engineering for Software Architecture, L'Aquila, Italy, 13-17 March 2023, [https://mde4sa.github.io/](https://mde4sa.github.io/)
 ## 2024
   * MLSys 2024, Santa Clara Convention Center, May 13 - 16, 2024, [https://mlsys.org/](https://mysys.org/)
+  * ICRA 2024, IEEE International Conference on Robotics and Automation, PACIFICO Yokohama, May 13 - 17, 2024, [https://2024.ieee-icra.org/] (https://2024.ieee-icra.org/)
   * ICSA 2024, 21st IEEE International Conference on Software Architecture, IIIT Hyderabad, India, June 4-8, 2024 [https://conf.researchr.org/home/icsa-2024](https://conf.researchr.org/home/icsa-2024)
     *  WASA 2024, The 10th International Workshop on Automotive System/Software Architectures
