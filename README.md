@@ -30,9 +30,9 @@ Conferences related to Automated Driving System
 ## 2024
   * AAAI, The 38th Annual AAAI Conference on Artificial Intelligence, Vancouver, Canada, 22-24 Feb., 2024 [https://aaai.org/aaai-conference/](https://aaai.org/aaai-conference/)
   * ADAS & Autonomous Vehicle Technology Expo 2024, Stuttgart, June 4-6, 2024, [https://www.autonomousvehicletechnologyexpo.com/en/](https://www.autonomousvehicletechnologyexpo.com/en/)
-  * ECCV, European Conference on Computer Vision, Allianz MiCo - Milano Congressi, Italy, Sept. 29-Oct. 04, 2024, [https://eccv2024.ecva.net/],(https://eccv2024.ecva.net/)
+  * ECCV, European Conference on Computer Vision, Allianz MiCo - Milano Congressi, Italy, Sept. 29-Oct. 04, 2024, [https://eccv2024.ecva.net/](https://eccv2024.ecva.net/)
   * CoRL, Munich, GERMANY, Nov. 06-09, 2024
-  * ASAM International Conference 2024, House of Communication, Friedenstr. 24, 81671 Munich, GERMANY, Nov. 12-13, 2024, [https://www.asam.net/conferences-events/detail/asam-international-conference-2024/],(https://www.asam.net/conferences-events/detail/asam-international-conference-2024/)
+  * ASAM International Conference 2024, House of Communication, Friedenstr. 24, 81671 Munich, GERMANY, Nov. 12-13, 2024, [https://www.asam.net/conferences-events/detail/asam-international-conference-2024/](https://www.asam.net/conferences-events/detail/asam-international-conference-2024/)
 ## 2025
   * ICCV
 # Some other conferences
