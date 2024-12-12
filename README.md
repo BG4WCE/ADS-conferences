@@ -33,8 +33,10 @@ Conferences related to Automated Driving System
   * ECCV, European Conference on Computer Vision, Allianz MiCo - Milano Congressi, Italy, Sept. 29-Oct. 04, 2024, [https://eccv2024.ecva.net/](https://eccv2024.ecva.net/)
   * CoRL, Munich, GERMANY, Nov. 06-09, 2024
   * ASAM International Conference 2024, House of Communication, Friedenstr. 24, 81671 Munich, GERMANY, Nov. 12-13, 2024, [https://www.asam.net/conferences-events/detail/asam-international-conference-2024/](https://www.asam.net/conferences-events/detail/asam-international-conference-2024/)
+  * NeurIPS 2024, The Thirty-Eighth Annual Conference on Neural Information Processing Systems, Vancouver Convention Center, Canada, Dec. 10-15, 2024, [https://neurips.cc/](https://neurips.cc/)
 ## 2025
-  * ICCV
+  * CVPR 2025, The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025, Music City Center, Nashville TN, June 11-15, 2025 [https://cvpr.thecvf.com/](https://cvpr.thecvf.com/)
+  * ICCV 2025, International Conference on Computer Vision, Honolulu, Hawaii, Oct. 19-25, 2025, [https://www.thecvf.com](https://www.thecvf.com/?page_id=100)
 # Some other conferences
 ADS is an applicaton area of other topics, like AI, Systems Engineering, Robotics, etc. It is worth to check other conference also.
 ## 2023
