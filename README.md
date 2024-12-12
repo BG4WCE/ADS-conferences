@@ -36,12 +36,17 @@ Conferences related to Automated Driving System
   * NeurIPS 2024, The Thirty-Eighth Annual Conference on Neural Information Processing Systems, Vancouver Convention Center, Canada, Dec. 10-15, 2024, [https://neurips.cc/](https://neurips.cc/)
   * AIxDKE 2024, Artificial Intelligence x Data & Knowledge Engineering (formerly AIKE), Hitachi Central Research Laboratory, Tokyo, Japan, Dec 11-13 2024 [https://www.aixdke.org/](https://www.aixdke.org/)
 ## 2025
-  * AAAI 2025, Feb. 25 - March 04, 2025, Philadelphia, Pennsylvania at the Pennsylvania Convention Center, [https://aaai.org/conference/aaai/aaai-25/](https://aaai.org/conference/aaai/aaai-25/)
-  * GTC 2025, March 17-20, 2025, San Jose, CA, [https://www.nvidia.com/gtc/sessions/](https://www.nvidia.com/gtc/sessions/)
+  * AAAI 2025, Philadelphia, Pennsylvania at the Pennsylvania Convention Center, Feb. 25 - March 04, 2025, [https://aaai.org/conference/aaai/aaai-25/](https://aaai.org/conference/aaai/aaai-25/)
+  * GTC 2025, San Jose, CA, March 17-20, 2025, [https://www.nvidia.com/gtc/sessions/](https://www.nvidia.com/gtc/sessions/)
+  * GAIA 2025, Göteborg, April 11, 2025, [https://www.gaia.fish/2025](https://www.gaia.fish/2025)
+  * ICLR 2025, Singapore EXPO, April 24-28, 2025, [https://iclr.cc/](https://iclr.cc/)
+  * ICRA 2025, IEEE International Conference on Robotics & Automation, Atlanta, USA, May 19-23
   * CVPR 2025, The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025, Music City Center, Nashville TN, June 11-15, 2025 [https://cvpr.thecvf.com/](https://cvpr.thecvf.com/)
   * IV 2025, Cluj-Napoca, Romania, June 22-25, 2025 [https://ieee-iv.org/2025/](https://ieee-iv.org/2025/)
   * SafeComp 2025, Stockholm, Sept. 9-12, [https://safecomp2025.se/](https://safecomp2025.se/)
+  * CoRL 2025, Conference on Robot Learning, Seoul, Korea, Sept. 27-30, 2025 [https://www.corl.org/](https://www.corl.org/)
   * ICCV 2025, International Conference on Computer Vision, Honolulu, Hawaii, Oct. 19-25, 2025, [https://www.thecvf.com](https://www.thecvf.com/?page_id=100)
+  * IROS 2025, IEEE/RSJ International Conference on Intelligent Robots and Systems, Oct. 19-25, 2025, [http://www.iros25.org/](http://www.iros25.org/)
   * ITSC 2025, Gold Coast, Australia, Nov. 18-21, 2025, [https://ieee-itsc.org/2025/](https://ieee-itsc.org/2025/)
 # Some other conferences
 ADS is an applicaton area of other topics, like AI, Systems Engineering, Robotics, etc. It is worth to check other conference also.
@@ -51,4 +56,7 @@ ADS is an applicaton area of other topics, like AI, Systems Engineering, Robotic
   * MLSys 2024, Santa Clara Convention Center, May 13 - 16, 2024, [https://mlsys.org/](https://mysys.org/)
   * ICRA 2024, IEEE International Conference on Robotics and Automation, PACIFICO Yokohama, May 13 - 17, 2024, [https://2024.ieee-icra.org/] (https://2024.ieee-icra.org/)
   * ICSA 2024, 21st IEEE International Conference on Software Architecture, IIIT Hyderabad, India, June 4-8, 2024 [https://conf.researchr.org/home/icsa-2024](https://conf.researchr.org/home/icsa-2024)
-    *  WASA 2024, The 10th International Workshop on Automotive System/Software Architectures
+  * WASA 2024, The 10th International Workshop on Automotive System/Software Architectures
+  * RE 2024, IEEE International Requirements Engineering 2024 conference, Iceland, June 24-28, 2024, [https://conf.researchr.org/home/RE-2024](https://conf.researchr.org/home/RE-2024)
+## 2025
+  * RE 2025, Valencia, Spain, Sept. 1-5, 2025, [https://conf.researchr.org/home/RE-2025](https://conf.researchr.org/home/RE-2025)
