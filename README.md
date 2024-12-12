@@ -34,12 +34,15 @@ Conferences related to Automated Driving System
   * CoRL, Munich, GERMANY, Nov. 06-09, 2024
   * ASAM International Conference 2024, House of Communication, Friedenstr. 24, 81671 Munich, GERMANY, Nov. 12-13, 2024, [https://www.asam.net/conferences-events/detail/asam-international-conference-2024/](https://www.asam.net/conferences-events/detail/asam-international-conference-2024/)
   * NeurIPS 2024, The Thirty-Eighth Annual Conference on Neural Information Processing Systems, Vancouver Convention Center, Canada, Dec. 10-15, 2024, [https://neurips.cc/](https://neurips.cc/)
+  * AIxDKE 2024, Artificial Intelligence x Data & Knowledge Engineering (formerly AIKE), Hitachi Central Research Laboratory, Tokyo, Japan, Dec 11-13 2024 [https://www.aixdke.org/](https://www.aixdke.org/)
 ## 2025
   * AAAI 2025, Feb. 25 - March 04, 2025, Philadelphia, Pennsylvania at the Pennsylvania Convention Center, [https://aaai.org/conference/aaai/aaai-25/](https://aaai.org/conference/aaai/aaai-25/)
+  * GTC 2025, March 17-20, 2025, San Jose, CA, [https://www.nvidia.com/gtc/sessions/](https://www.nvidia.com/gtc/sessions/)
   * CVPR 2025, The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025, Music City Center, Nashville TN, June 11-15, 2025 [https://cvpr.thecvf.com/](https://cvpr.thecvf.com/)
   * IV 2025, Cluj-Napoca, Romania, June 22-25, 2025 [https://ieee-iv.org/2025/](https://ieee-iv.org/2025/)
   * SafeComp 2025, Stockholm, Sept. 9-12, [https://safecomp2025.se/](https://safecomp2025.se/)
   * ICCV 2025, International Conference on Computer Vision, Honolulu, Hawaii, Oct. 19-25, 2025, [https://www.thecvf.com](https://www.thecvf.com/?page_id=100)
+  * ITSC 2025, Gold Coast, Australia, Nov. 18-21, 2025, [https://ieee-itsc.org/2025/](https://ieee-itsc.org/2025/)
 # Some other conferences
 ADS is an applicaton area of other topics, like AI, Systems Engineering, Robotics, etc. It is worth to check other conference also.
 ## 2023
