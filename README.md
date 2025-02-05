@@ -51,6 +51,9 @@ Conferences related to Automated Driving System
 # Some other conferences
 ADS is an applicaton area of other topics, like AI, Systems Engineering, Robotics, etc. It is worth to check other conference also.
 ## 2025
+  * CSER 2025, Conference on Systems Engineering Research, Long Beach, CA, USA, March 18-21, 2025, [https://sercuarc.org/event/conference-on-systems-engineering-research-2025/](https://sercuarc.org/event/conference-on-systems-engineering-research-2025/)
+  * SYSCON 2025, International Systems Conference, April 7-10, 2025, Montreal, QC, Canada
+  * ICSE (RAISE) 2025, Requirements engineering for AI-powered SoftwarE, Ottawa, Ontario, Canada, April 27- May 3, 2025, [https://conf.researchr.org/home/icse-2025/raise-2025](https://conf.researchr.org/home/icse-2025/raise-2025)
   * RE 2025, Valencia, Spain, Sept. 1-5, 2025, [https://conf.researchr.org/home/RE-2025](https://conf.researchr.org/home/RE-2025)
 ## 2024
   * MLSys 2024, Santa Clara Convention Center, May 13 - 16, 2024, [https://mlsys.org/](https://mysys.org/)
