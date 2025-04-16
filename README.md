@@ -55,7 +55,7 @@ ADS is an applicaton area of other topics, like AI, Systems Engineering, Robotic
   * SYSCON 2025, International Systems Conference, April 7-10, 2025, Montreal, QC, Canada
   * ICSE (RAISE) 2025, Requirements engineering for AI-powered SoftwarE, Ottawa, Ontario, Canada, April 27- May 3, 2025, [https://conf.researchr.org/home/icse-2025/raise-2025](https://conf.researchr.org/home/icse-2025/raise-2025)
   * RE 2025, Valencia, Spain, Sept. 1-5, 2025, [https://conf.researchr.org/home/RE-2025](https://conf.researchr.org/home/RE-2025)
-  * MYSys 2025, The Eight Annual Conference on Machine Learning and Systems, Santa Clara, CA, USA, May 12-15, [https://mlsys.org/](https://mlsys.org/)
+  * MLSys 2025, The Eight Annual Conference on Machine Learning and Systems, Santa Clara, CA, USA, May 12-15, [https://mlsys.org/](https://mlsys.org/)
 ## 2024
   * MLSys 2024, Santa Clara Convention Center, May 13 - 16, 2024, [https://mlsys.org/](https://mysys.org/)
   * ICRA 2024, IEEE International Conference on Robotics and Automation, PACIFICO Yokohama, May 13 - 17, 2024, [https://2024.ieee-icra.org/] (https://2024.ieee-icra.org/)
